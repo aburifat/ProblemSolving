@@ -1,3 +1,24 @@
+/*******Bismillahir-Rahmanir-Rahim**********/
+/* 
+Name         : Abu Rifat Muhammed Al Hasib 
+Institution  : University of Barisal, Bangladesh
+Github       : abu-rifat
+Codeforces   : AbuRifatMuhammed
+AtCoder      : aburifat
+codechef     : aburifat
+SPOJ         : abu_rifat
+UvaOJ        : aburifat
+DevSkill     : abu_rifat
+lightoj      : Abu Rifat Muhammed Al Hasib
+facebook     : https://www.facebook.com/a.r.m.al.hasib/
+linkedin     : https://www.linkedin.com/in/abu-rifat-534258142/
+Email        : rifat.cse4.bu@gmail.com, armalhasib@gmail.com
+*/
+
+/* 
+Topic           : Cartesian Tree
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -62,3 +83,5 @@ Parent of 4 is : 3
 Parent of 3 is : 2
 
 */
+
+/***********Alhamdulillah***********/
