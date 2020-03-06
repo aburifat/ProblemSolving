@@ -24,7 +24,7 @@ Solving Method  : Range Max Query-Sparse Table, Value Mapping, Binary Search
 
 
 #include<bits/stdc++.h>
-using namespace std;;
+using namespace std;
 #define ll long long
 #define MX 10009
 
